@@ -3,7 +3,7 @@ const nextConfig = {
   transpilePackages: ['common'],
   experimental: {
     externalDir: true,
-    serverComponentsExternalPackages: ['mongoose'] // <--- تأكد من وجود هذا السطر
+    serverComponentsExternalPackages: ['mongoose'] // السطر السحري لحل المشكلة
   },
   images: {
     remotePatterns: [
@@ -18,4 +18,5 @@ const nextConfig = {
 }
 
 const withNextIntl = require("next-intl/plugin")()
+
 module.exports = withNextIntl(nextConfig)
