@@ -1,7 +1,8 @@
 {
   "name": "common",
   "dependencies": {
-    "@colyseus/schema": "^2.0.25"
+    "@colyseus/schema": "^2.0.25",
+    "mongoose": "^8.0.0"
   },
   "devDependencies": {
     "@types/node": "^20.10.0",
