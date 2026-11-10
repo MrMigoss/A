@@ -46,6 +46,6 @@
       "#/*": ["./*"]
     }
   },
-  "include": ["next-env.d.ts", "src/**/*", ".next/types/**/*.ts"],
+  "include": ["next-env.d.ts", "src/**/*", ".next/types/**/*.ts", "../common/**/*.ts"],
   "exclude": ["node_modules"]
 }
