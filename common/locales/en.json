@@ -1,0 +1,99 @@
+{
+  "ListPage": {
+    "creator": "Creator",
+    "bet": "Bet",
+    "players": "Players"
+  },
+  "join": "Join",
+  "create": "Create",
+  "profile": "Profile",
+  "GamePage": {
+    "startingGame": "Starting the game",
+    "waitingPlayers": "Waiting for players",
+    "getReady": "Get ready!",
+    "ready": "Get ready",
+    "notReady": "Wait",
+    "win": "You won",
+    "lose": "You lost"
+  },
+  "MainCardPage": {
+    "surrenderMessage": "Are you sure you want to give up?",
+    "surrenderYes": "Yes",
+    "surrenderNo": "No"
+  },
+  "ChooseColor": {
+    "text": "Choose color"
+  },
+  "info": {
+    "penaltyFromShoutUno": "Penalty of 2 cards for not shouting UNO",
+    "shoutUno": "You shouted UNO"
+  },
+  "warning": {
+    "afk": "You were disconnected for inactivity"
+  },
+  "error": {
+    "alreadyStarted": "The game has already started",
+    "cardCantBeUsed": "Wrong card",
+    "notYourMove": "Not your move",
+    "notTakenCardYet": "Firstly take a card",
+    "alreadyTook": "Card has already been taken",
+    "notStarted": "The game has not started yet",
+    "notEnoughBalance": "Not enough balance",
+    "unknownAction": "Unknown Action",
+    "notUnoToShout": "Shout UNO before or after playing the second-to-last card",
+    "notUnoToNotice": "It's not the time to shout UNO for this player",
+    "alreadyShoutedUno": "UNO has already been shouted"
+  },
+  "Profile": {
+    "balance": "Balance",
+    "statistics": "Game statistics",
+    "quantity": "Total played",
+    "won": "Won",
+    "lost": "Lost",
+    "deposit": "Top up",
+    "top": "Top players",
+    "ad": "Get"
+  },
+  "Exit": {
+    "message": "Are you sure you want to leave the game?",
+    "yes": "Yes",
+    "no": "No"
+  },
+  "CreateGame": {
+    "enter": "Enter parameters",
+    "bet": "Bet: ",
+    "minPlayers": "Min. players: ",
+    "maxPlayers": "Max. players: ",
+    "ok": "Start"
+  },
+  "BottomLine": {
+    "ready": "You are ready!",
+    "notReady": "You aren't ready!",
+    "pass": "Pass",
+    "takeCard": "Take card",
+    "waitingMove": "Waiting for opponent"
+  },
+  "Deposit": {
+    "description": "Topping up your game balance",
+    "enter": "Enter amount of money to top up",
+    "ok": "Top up",
+    "userAgreement": "User agreement"
+  },
+  "AfterDeposit": {
+    "successful": "The top up was successful",
+    "unsuccessful": "The top up failed",
+    "text": "Your balance has been increased by {money} coins"
+  },
+  "Top": {
+    "name": "Nickname",
+    "balance": "Balance",
+    "win": "Victories",
+    "lose": "Loses"
+  },
+  "Ad": {
+    "waiting": "Wait for the ad to load",
+    "watching": "Watching ads",
+    "error": "Error loading advertisement",
+    "success": "You received {money} coins"
+  }
+}

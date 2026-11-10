@@ -1,0 +1,99 @@
+{
+  "ListPage": {
+    "creator": "Criador",
+    "bet": "Aposta",
+    "players": "Jogadores"
+  },
+  "join": "Entrar",
+  "create": "Criar",
+  "profile": "Perfil",
+  "GamePage": {
+    "startingGame": "Iniciando o jogo",
+    "waitingPlayers": "Aguardando jogadores",
+    "getReady": "Prepare-se!",
+    "ready": "Pronto",
+    "notReady": "Aguardar",
+    "win": "Você ganhou",
+    "lose": "Você perdeu"
+  },
+  "MainCardPage": {
+    "surrenderMessage": "Tem certeza de que deseja desistir?",
+    "surrenderYes": "Sim",
+    "surrenderNo": "Não"
+  },
+  "ChooseColor": {
+    "text": "Escolha a cor"
+  },
+  "info": {
+    "penaltyFromShoutUno": "Pena de 2 cartas por não gritar UNO",
+    "shoutUno": "Você gritou UNO"
+  },
+  "warning": {
+    "afk": "Você foi desconectado por inatividade"
+  },
+  "error": {
+    "alreadyStarted": "O jogo já começou",
+    "cardCantBeUsed": "Carta errada",
+    "notYourMove": "Não é a sua vez",
+    "notTakenCardYet": "Primeiro pegue uma carta",
+    "alreadyTook": "A carta já foi pega",
+    "notStarted": "O jogo ainda não começou",
+    "notEnoughBalance": "Saldo insuficiente",
+    "unknownAction": "Ação desconhecida",
+    "notUnoToShout": "Grite UNO antes ou depois de jogar a penúltima carta",
+    "notUnoToNotice": "Não é hora de gritar UNO para este jogador",
+    "alreadyShoutedUno": "UNO já foi gritado"
+  },
+  "Profile": {
+    "balance": "Saldo",
+    "statistics": "Estatísticas do jogo",
+    "quantity": "Total de partidas jogadas",
+    "won": "Vitórias",
+    "lost": "Derrotas",
+    "deposit": "Recarregar",
+    "top": "Melhores jogadores",
+    "ad": "Receber"
+  },
+  "Exit": {
+    "message": "Tem certeza de que deseja sair do jogo?",
+    "yes": "Sim",
+    "no": "Não"
+  },
+  "CreateGame": {
+    "enter": "Inserir parâmetros",
+    "bet": "Aposta: ",
+    "minPlayers": "Jogadores mínimos: ",
+    "maxPlayers": "Jogadores máximos: ",
+    "ok": "Iniciar"
+  },
+  "BottomLine": {
+    "ready": "Sei pronto!",
+    "notReady": "Non sei pronto!",
+    "pass": "Passar",
+    "takeCard": "Pegar Carta",
+    "waitingMove": "Aguardando o Oponente"
+  },
+  "Deposit": {
+    "description": "Recarregue seu saldo de jogo",
+    "enter": "Digite o valor para recarregar",
+    "ok": "Recarregar",
+    "userAgreement": "Contrato do usuário"
+  },
+  "AfterDeposit": {
+    "successful": "A recarga foi bem-sucedida",
+    "unsuccessful": "A recarga falhou",
+    "text": "Seu saldo foi aumentado em {money} moedas"
+  },
+  "Top": {
+    "name": "Nome de usuário",
+    "balance": "Saldo",
+    "win": "Vitórias",
+    "lose": "Derrotas"
+  },
+  "Ad": {
+    "waiting": "Aguarde o carregamento do anúncio",
+    "watching": "Assistindo anúncios",
+    "error": "Erro ao carregar o anúncio",
+    "success": "Você recebeu {money} moedas"
+  }
+}

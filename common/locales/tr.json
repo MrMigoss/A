@@ -1,0 +1,99 @@
+{
+  "ListPage": {
+    "creator": "Oluşturan",
+    "bet": "Bahis",
+    "players": "Oyuncular"
+  },
+  "join": "Katıl",
+  "create": "Oluştur",
+  "profile": "Profil",
+  "GamePage": {
+    "startingGame": "Oyun başlıyor",
+    "waitingPlayers": "Oyuncular bekleniyor",
+    "getReady": "Hazır ol!",
+    "ready": "Hazır",
+    "notReady": "Bekle",
+    "win": "Kazandınız",
+    "lose": "Kaybettiniz"
+  },
+  "MainCardPage": {
+    "surrenderMessage": "Vazgeçmek istediğinizden emin misiniz?",
+    "surrenderYes": "Evet",
+    "surrenderNo": "Hayır"
+  },
+  "ChooseColor": {
+    "text": "Renk seçin"
+  },
+  "info": {
+    "penaltyFromShoutUno": "UNO demediğiniz için 2 kart cezası",
+    "shoutUno": "UNO diye bağırdınız"
+  },
+  "warning": {
+    "afk": "Etkinlik olmaması nedeniyle bağlantınız kesildi"
+  },
+  "error": {
+    "alreadyStarted": "Oyun zaten başladı",
+    "cardCantBeUsed": "Yanlış kart",
+    "notYourMove": "Sıra sizde değil",
+    "notTakenCardYet": "Önce bir kart alın",
+    "alreadyTook": "Kart zaten alındı",
+    "notStarted": "Oyun henüz başlamadı",
+    "notEnoughBalance": "Yetersiz bakiye",
+    "unknownAction": "Bilinmeyen Eylem",
+    "notUnoToShout": "Son ikinci kartı oynamadan önce veya sonra UNO deyin",
+    "notUnoToNotice": "Bu oyuncu için UNO deme zamanı değil",
+    "alreadyShoutedUno": "UNO zaten söylendi"
+  },
+  "Profile": {
+    "balance": "Bakiye",
+    "statistics": "Oyun istatistikleri",
+    "quantity": "Toplam oynanan",
+    "won": "Kazanılan",
+    "lost": "Kaybedilen",
+    "deposit": "Yatırım",
+    "top": "En iyi oyuncular",
+    "ad": "Reklam al"
+  },
+  "Exit": {
+    "message": "Oyundan çıkmak istediğinizden emin misiniz?",
+    "yes": "Evet",
+    "no": "Hayır"
+  },
+  "CreateGame": {
+    "enter": "Parametreleri girin",
+    "bet": "Bahis: ",
+    "minPlayers": "Min. oyuncular: ",
+    "maxPlayers": "Max. oyuncular: ",
+    "ok": "Başla"
+  },
+  "BottomLine": {
+    "ready": "Hazırsınız!",
+    "notReady": "Hazır değilsiniz!",
+    "pass": "Pas",
+    "takeCard": "Kart Al",
+    "waitingMove": "Rakip Bekleniyor"
+  },
+  "Deposit": {
+    "description": "Oyun bakiyenizi doldurun",
+    "enter": "Yatırmak için para miktarını girin",
+    "ok": "Yatır",
+    "userAgreement": "Kullanıcı sözleşmesi"
+  },
+  "AfterDeposit": {
+    "successful": "Yatırım başarılı oldu",
+    "unsuccessful": "Yatırım başarısız oldu",
+    "text": "Bakiyeniz {money} jetonla artırıldı"
+  },
+  "Top": {
+    "name": "Kullanıcı Adı",
+    "balance": "Bakiye",
+    "win": "Galibiyetler",
+    "lose": "Yenilgiler"
+  },
+  "Ad": {
+    "waiting": "Reklamın yüklenmesini bekleyin",
+    "watching": "Reklamları izliyor",
+    "error": "Reklam yüklenirken hata oluştu",
+    "success": "{money} jeton aldınız"
+  }
+}

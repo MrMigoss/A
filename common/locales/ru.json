@@ -1,0 +1,99 @@
+{
+  "ListPage": {
+    "creator": "Создатель",
+    "bet": "Ставка",
+    "players": "Игроки"
+  },
+  "join": "Присоединиться",
+  "create": "Создать",
+  "profile": "Профиль",
+  "GamePage": {
+    "startingGame": "Начало игры",
+    "waitingPlayers": "Ожидание игроков",
+    "getReady": "Приготовьтесь!",
+    "ready": "Приготовиться",
+    "notReady": "Подождать",
+    "win": "Вы выиграли",
+    "lose": "Вы проиграли"
+  },
+  "MainCardPage": {
+    "surrenderMessage": "Вы точно хотите сдаться?",
+    "surrenderYes": "Да",
+    "surrenderNo": "Нет"
+  },
+  "ChooseColor": {
+    "text": "Выберите цвет"
+  },
+  "info": {
+    "penaltyFromShoutUno": "Штраф 2 карты за несказанное UNO",
+    "shoutUno": "Вы крикнули UNO"
+  },
+  "warning": {
+    "afk": "Вы были отключены за бездействие"
+  },
+  "error": {
+    "alreadyStarted": "Игра уже начата",
+    "cardCantBeUsed": "Неверная карта",
+    "notYourMove": "Не твой ход",
+    "notTakenCardYet": "Сначала возьми карту",
+    "alreadyTook": "Карта уже взята",
+    "notStarted": "Игра еще не начата",
+    "notEnoughBalance": "Недостаточно баланса",
+    "unknownAction": "Неизвестное действие",
+    "notUnoToShout": "Кричите UNO до или после хода предпоследней картой",
+    "notUnoToNotice": "Не время кричать UNO для этого игрока",
+    "alreadyShoutedUno": "Уже крикнули UNO"
+  },
+  "Profile": {
+    "balance": "Баланс",
+    "statistics": "Статистика игр",
+    "quantity": "Всего сыграно",
+    "won": "Выиграно",
+    "lost": "Проиграно",
+    "deposit": "Пополнить",
+    "top": "Топ игроков",
+    "ad": "Получить"
+  },
+  "Exit": {
+    "message": "Вы действительно хотите покинуть игру?",
+    "yes": "Да",
+    "no": "Нет"
+  },
+  "CreateGame": {
+    "enter": "Введите параметры",
+    "bet": "ставка: ",
+    "minPlayers": "мин. игроков: ",
+    "maxPlayers": "макс. игроков: ",
+    "ok": "Начать"
+  },
+  "BottomLine": {
+    "ready": "Вы готовы!",
+    "notReady": "Вы не готовы!",
+    "pass": "Пас",
+    "takeCard": "Взять карту",
+    "waitingMove": "Ожидание противника"
+  },
+  "Deposit": {
+    "description": "Пополнение игрового баланса",
+    "enter": "Введите кол-во монет для пополнения",
+    "ok": "Пополнить",
+    "userAgreement": "Пользовательское соглашение"
+  },
+  "AfterDeposit": {
+    "successful": "Пополнение прошло успешно",
+    "unsuccessful": "Пополнение не удалось",
+    "text": "Ваш баланс увеличен на {money} монет"
+  },
+  "Top": {
+    "name": "Никнейм",
+    "balance": "Баланс",
+    "win": "Победы",
+    "lose": "Поражения"
+  },
+  "Ad": {
+    "waiting": "Подождите пока реклама загружается",
+    "watching": "Просмотр рекламы",
+    "error": "Ошибка загрузки рекламы",
+    "success": "Вы получили {money} монет"
+  }
+}

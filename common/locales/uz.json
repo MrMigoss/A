@@ -1,0 +1,99 @@
+{
+  "ListPage": {
+    "creator": "Yaratuvchi",
+    "bet": "Baholash",
+    "players": "O'yinchilar"
+  },
+  "join": "Qo'shil",
+  "create": "Yaratish",
+  "profile": "Profil",
+  "GamePage": {
+    "startingGame": "O'yin boshlanmoqda",
+    "waitingPlayers": "O'yinchilar kutmoqda",
+    "getReady": "Tayyormisiz!",
+    "ready": "Tayyormi",
+    "notReady": "Kuting",
+    "win": "Siz yutdingiz",
+    "lose": "Siz yutqazdingiz"
+  },
+  "MainCardPage": {
+    "surrenderMessage": "Ishonchingiz komilmi?",
+    "surrenderYes": "Ha",
+    "surrenderNo": "Yo'q"
+  },
+  "ChooseColor": {
+    "text": "Rangni tanlang"
+  },
+  "info": {
+    "penaltyFromShoutUno": "UNO demaganlik uchun 2 ta karta jarimasi",
+    "shoutUno": "Siz UNO deb baqirdingiz"
+  },
+  "warning": {
+    "afk": "Folilliksizligi uchun siz uzildingiz"
+  },
+  "error": {
+    "alreadyStarted": "O'yin allaqachon boshlandi",
+    "cardCantBeUsed": "Noto'g'ri karta",
+    "notYourMove": "Sizning o'yingiz emas",
+    "notTakenCardYet": "Avval kartinigizni olamiz",
+    "alreadyTook": "Karta allaqachon olindi",
+    "notStarted": "O'yin hali boshlanmadi",
+    "notEnoughBalance": "Yetarli mablag' mavjud emas",
+    "unknownAction": "Noma'lum amal",
+    "notUnoToShout": "O'zgaruvchi kartani o'ynagan oldin yoki keyin UNO deyin",
+    "notUnoToNotice": "Bu o'yinchiga UNO aytmagan vaqt",
+    "alreadyShoutedUno": "UNO allaqachon aytilgan"
+  },
+  "Profile": {
+    "balance": "Balans",
+    "statistics": "O'yin statistikasi",
+    "quantity": "Jami o'ynangan o'yinlar",
+    "won": "G'alaba olinganlar",
+    "lost": "Mag'lubiyat olinganlar",
+    "deposit": "Hisobni to'ldirish",
+    "top": "Eng yaxshi o'yinchilar",
+    "ad": "Oling"
+  },
+  "Exit": {
+    "message": "O'yindan chiqmoqchimisiz?",
+    "yes": "Ha",
+    "no": "Yo'q"
+  },
+  "CreateGame": {
+    "enter": "Parametrlarni kiriting",
+    "bet": "Stavka: ",
+    "minPlayers": "Min. o'yinchilar: ",
+    "maxPlayers": "Max. o'yinchilar: ",
+    "ok": "Boshla"
+  },
+  "BottomLine": {
+    "ready": "Tayyor!",
+    "notReady": "Tayyor emassiz!",
+    "pass": "O'tkazish",
+    "takeCard": "Kartani oling",
+    "waitingMove": "Murabbo beklaydi"
+  },
+  "Deposit": {
+    "description": "O'yin balansini to'ldiring",
+    "enter": "To'lash uchun pul miqdorini kiriting",
+    "ok": "To'ldirish",
+    "userAgreement": "Foydalanuvchi shartnomasi"
+  },
+  "AfterDeposit": {
+    "successful": "To'ldirish muvaffaqiyatli amalga oshirildi",
+    "unsuccessful": "To'ldirish muvaffaqiyatsiz amalga oshirildi",
+    "text": "Sizning balansingiz {money} sikklar bilan oshirildi"
+  },
+  "Top": {
+    "name": "Foydalanuvchi nomi",
+    "balance": "Balans",
+    "win": "G'alabalar",
+    "lose": "Mag'lubiyatlar"
+  },
+  "Ad": {
+    "waiting": "Reklama yuklanishini kuting",
+    "watching": "Reklamalarni ko'rib chiqish",
+    "error": "Reklama yuklashda xatolik",
+    "success": "Siz {money} sikklar olingiz"
+  }
+}
