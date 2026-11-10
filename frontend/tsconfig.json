@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    "baseUrl": ".",
     "lib": ["dom", "dom.iterable", "esnext"],
     "allowJs": true,
     "skipLibCheck": true,
@@ -25,6 +26,8 @@
       }
     ],
     "paths": {
+      "common": ["../common"],
+      "common/*": ["../common/*"],
       "@public/*": ["./public/*"],
       "@/*": ["./src/*"],
       "@app/*": ["./src/app/[lang]/*"],
