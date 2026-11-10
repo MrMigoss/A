@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "common": "workspace:*",
+    "mongoose": "^8.0.0",
     "@dnd-kit/core": "^6.1.0",
     "@tma.js/sdk": "^3.3.0",
     "@tma.js/sdk-react": "1.0.1",
