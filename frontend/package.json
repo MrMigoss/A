@@ -8,6 +8,7 @@
     "localtunnel": "ts-node ./src/utils/launchTunnel.ts"
   },
   "dependencies": {
+    "common": "workspace:*",
     "@dnd-kit/core": "^6.1.0",
     "@tma.js/sdk": "^3.3.0",
     "@tma.js/sdk-react": "1.0.1",
