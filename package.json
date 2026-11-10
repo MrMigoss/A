@@ -10,7 +10,8 @@
     "backend"
   ],
   "dependencies": {
-    "lerna": "^8.0.0"
+    "lerna": "^8.0.0",
+    "@tma.js/sdk": "^0.5.1"
   },
   "engines": {
     "node": ">= 16.13.0"
