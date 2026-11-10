@@ -2,7 +2,8 @@
 const nextConfig = {
   transpilePackages: ['common'],
   experimental: {
-    externalDir: true
+    externalDir: true,
+    serverComponentsExternalPackages: ['mongoose'] // أضف هذا السطر
   },
   images: {
     remotePatterns: [
