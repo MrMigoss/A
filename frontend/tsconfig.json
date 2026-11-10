@@ -26,6 +26,8 @@
       }
     ],
     "paths": {
+      "mongoose": ["../node_modules/mongoose"],
+      "mongoose/*": ["../node_modules/mongoose/*"],
       "common": ["../common"],
       "common/*": ["../common/*"],
       "@public/*": ["./public/*"],
