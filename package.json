@@ -1,0 +1,24 @@
+{
+  "name": "uno",
+  "version": "0.2.1",
+  "author": "NMI",
+  "license": "MIT",
+  "workspaces": [
+    "common",
+    "frontend",
+    "bot",
+    "backend"
+  ],
+  "dependencies": {
+    "lerna": "^8.0.0"
+  },
+  "engines": {
+    "node": ">= 16.13.0"
+  },
+  "scripts": {
+    "dev": "lerna run dev",
+    "start": "lerna run start",
+    "build": "lerna run build"
+  },
+  "packageManager": "yarn@3.6.4"
+}

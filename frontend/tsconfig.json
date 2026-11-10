@@ -1,0 +1,46 @@
+{
+  "compilerOptions": {
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "strictNullChecks": false,
+    "forceConsistentCasingInFileNames": true,
+    "useDefineForClassFields": false,
+    "noEmit": true,
+    "preserveWatchOutput": true,
+    "esModuleInterop": true,
+    "module": "CommonJS",
+    "target": "ES2022",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "preserve",
+    "incremental": true,
+    "experimentalDecorators": true,
+    "strictPropertyInitialization": false,
+    "plugins": [
+      {
+        "name": "next"
+      }
+    ],
+    "paths": {
+      "@public/*": ["./public/*"],
+      "@/*": ["./src/*"],
+      "@app/*": ["./src/app/[lang]/*"],
+      "@events/*": ["./src/events/*"],
+      "@utils/*": ["./src/utils/*"],
+      "@contexts/*": ["./src/contexts/*"],
+      "@services/*": ["./src/services/*"],
+      "@components/*": ["./src/components/*"],
+      "@typings/*": ["./src/typings/*"],
+      "@hooks/*": ["./src/hooks/*"],
+      "@game/*": ["./src/components/game/*"],
+      "@table/*": ["./src/components/game/table/*"],
+      "@players/*": ["./src/components/game/players/*"],
+      "#/*": ["./*"]
+    }
+  },
+  "include": ["next-env.d.ts", "src/**/*", ".next/types/**/*.ts"],
+  "exclude": ["node_modules"]
+}
